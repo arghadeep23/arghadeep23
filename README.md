@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @arghadeep23
 - 👀 I’m interested in ...coding, competitive programming and web development.
 - 🌱 I’m currently learning ... data structures and algorithms , using STL , web development
-- 💞️ I’m looking to collaborate on ... 
+<!--- - 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me ... LinkedIN : https://www.linkedin.com/in/arghadeep-dey-b044b8222/
 
 <!---
