@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Arghadeep Dey, a 2nd year undergraduate student pursuing B.Tech in CSE from IIIT Vadodara. 
+- 👋 Hi, I’m Arghadeep Dey, a 3rd year undergraduate student pursuing B.Tech in CSE from IIIT Vadodara. 
 - 👀 I’m interested in competitive programming and web development.
 - 🌱 I’m currently learning data structures and algorithms , STL in C++ and it's applications , and MERN stack. 
 - 📫 How to reach me ... LinkedIN : https://www.linkedin.com/in/arghadeep-dey-b044b8222/
