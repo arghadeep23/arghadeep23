@@ -5,7 +5,7 @@
 
 - 👀 I'm interested in **Full stack web development, data structures, algorithms and LLMs.**
 - 👨‍💻So far, I have experience in working with the **MERN** stack and explored tech stacks like WebSockets, SSEs, GraphQL. 
-- 🌱 I’m currently learning Redux and its advanced applications, CSS frameworks like Tailwind, Material UI, ShadCN.
+- 🌱 I’m currently learning Redux and its advanced applications, CSS frameworks like Tailwind, Material UI.
 - 🎯 I am open to working and is looking for **internships** as a **SDE intern** or as a **Full Stack Developer (Web)**.
 - 🤝 Reach out to me on LinkedIn : https://www.linkedin.com/in/arghadeep-dey-b044b8222/
 - ✈️ Future goals : Learning Web3.
