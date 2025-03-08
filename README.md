@@ -1,14 +1,8 @@
 <h1 align="center">Hi 👋, I'm Arghadeep</h1>
-<h3 align="center">A passionate full-stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arghadeep23&label=Profile%20views&color=0e75b6&style=flat" alt="arghadeep23" /> </p>
 
-- 👀 I'm interested in **Full stack web development, data structures, algorithms and LLMs.**
-- 👨‍💻So far, I have experience in working with the **MERN** stack and explored tech stacks like WebSockets, SSEs, GraphQL. 
-- 🌱 I’m currently learning Redux and its advanced applications, CSS frameworks like Tailwind, Material UI.
-- 🎯 I am open to working and is looking for **internships** as a **SDE intern** or as a **Full Stack Developer (Web)**.
 - 🤝 Reach out to me on LinkedIn : https://www.linkedin.com/in/arghadeep-dey-b044b8222/
-- ✈️ Future goals : Learning Web3.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
